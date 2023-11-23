@@ -1,4 +1,4 @@
-// group elements by the sum of row and column indices
+// group elements by the sum of row and column indice
 var findDiagonalOrder = function(nums) {
     let output = {};
 
