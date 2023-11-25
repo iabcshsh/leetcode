@@ -1,3 +1,5 @@
+
+
 # Greedy simulation with sorting O(nlogn) time O(n) space
 def maxCoins( piles:list[int]) -> int:
     length=len(piles)
@@ -12,3 +14,29 @@ def maxCoins( piles:list[int]) -> int:
     return re
 maxCoins([2,4,1,2,7,8])
 maxCoins([9,8,7,6,5,1,2,3,4]) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
