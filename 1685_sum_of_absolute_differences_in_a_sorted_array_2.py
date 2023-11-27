@@ -1,5 +1,5 @@
 # sum of absolute differences in a sorted array
- # prefix sum  on the fly O(n) time O(1) space
+# prefix sum  on the fly O(n) time O(1) space
 def getSumAbsoluteDifferences(nums: list[int]) -> list[int]:
     n=len(nums)
     total=sum(nums)

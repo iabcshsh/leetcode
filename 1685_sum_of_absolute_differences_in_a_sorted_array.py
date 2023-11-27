@@ -1,3 +1,4 @@
+
 # sum of absolute differences in a sorted array
 # prefix sum O(n) time O(n) space
 def getSumAbsoluteDifferences(nums: list[int]) -> list[int]:
